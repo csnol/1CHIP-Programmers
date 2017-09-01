@@ -1,7 +1,8 @@
 
 # 1CHIP-Programmers 
 ## 1. Programmer for Attiny
-    It can upload sketch to Attiny 13, Attiny 25/45/85, Attiny 24/44/84, Attiny 441/841, Attiny 2313/4313 with Arduno UNO or NANO.
+
+It can upload sketch to Attiny 13, Attiny 25/45/85, Attiny 24/44/84, Attiny 441/841, Attiny 2313/4313 with Arduno UNO or NANO.
 
 #### Schematic
 <img src="./images/Attiny_Programmer.jpg" width="700">  
