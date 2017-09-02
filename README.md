@@ -15,6 +15,9 @@ It can upload sketch to Attiny 13, Attiny 25/45/85, Attiny 24/44/84, Attiny 441/
 
 <img src="./images/Attiny-Programmer-with-Uno.jpg" width="700"> 
 
+[Video on YOUTUBE](https://youtu.be/lsUCo3aK4AM).
+
+
 ## 2. Programmer for STM32F030
 
 #### Coming soon.
