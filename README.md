@@ -19,7 +19,7 @@ It can upload sketch to Attiny 13, Attiny 25/45/85, Attiny 24/44/84, Attiny 441/
 [Video on YOUTUBE](https://youtu.be/lsUCo3aK4AM).
 
 
-## 2. Programmer for STM32F030
+## 2. Programmer for STM32 20pins and 32pins MCU
 
 It can upload sketch to Almost all STM32 20pins and 32pins MCU with a USB-TTL adaptor.
 Tested on STM32F030F4 and STM32F030K6
@@ -31,7 +31,7 @@ Tested on STM32F030F4 and STM32F030K6
 
 #### Schematic
 
-<img src="./images/STM32F030_Programmer.jpg" width="700">  
+<img src="./images/STM32_Programmer.jpg" width="700">  
 
 #### Wiring sketch
   
@@ -39,6 +39,6 @@ Tested on STM32F030F4 and STM32F030K6
 
 #### Picture with USB-TTL adaptor
 
-<img src="./images/STM32F030-programmer.jpg" width="700"> 
+<img src="./images/STM32-programmer.jpg" width="700"> 
 
 [Video on YOUTUBE](https://youtu.be/e2rQj7hw5r0).
