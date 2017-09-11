@@ -35,7 +35,7 @@ Tested on STM32F030F4 and STM32F030K6
 
 #### Wiring sketch
   
-<img src="./images/STM32F030F4&F030K6 Programmer.jpg" width="700"> 
+<img src="./images/STM32-Programmer1.jpg" width="700"> 
 
 #### Picture with USB-TTL adaptor
 
