@@ -41,3 +41,4 @@ Tested on STM32F030F4 and STM32F030K6
 
 <img src="./images/STM32F030-programmer.jpg" width="700"> 
 
+[Video on YOUTUBE](https://youtu.be/e2rQj7hw5r0).
