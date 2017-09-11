@@ -21,5 +21,17 @@ It can upload sketch to Attiny 13, Attiny 25/45/85, Attiny 24/44/84, Attiny 441/
 
 ## 2. Programmer for STM32F030
 
-#### Coming soon.
+It can upload sketch to STM32F030F4P6 and STM32F030K6T6A with a USB-TTL adaptor.
+
+#### Schematic
+
+<img src="./images/STM32F030_Programmer.jpg" width="700">  
+
+#### Wiring sketch
+  
+<img src="./images/STM32F030F4&F030K6 Programmer.jpg" width="700"> 
+
+#### Picture with USB-TTL adaptor
+
+<img src="./images/STM32F030-programmer.jpg" width="700"> 
 
