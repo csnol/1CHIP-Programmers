@@ -39,6 +39,6 @@ Tested on STM32F030F4 and STM32F030K6
 
 #### Picture with USB-TTL adaptor
 
-<img src="./images/STM32-programmer.jpg" width="700"> 
+<img src="./images/STM32-programmer2.jpg" width="700"> 
 
 [Video on YOUTUBE](https://youtu.be/e2rQj7hw5r0).
