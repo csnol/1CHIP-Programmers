@@ -49,7 +49,8 @@ It can upload sketch by OTA to all STM32F1 series with a ESP8266.
 Testing on BluePill now.
 
 TODO: 
-> 1. Flash .bin to STM32F103 on ESP8266 HTTP-server.
-> 2. OTA STM32F1 series on IP-address port in Arduino IDE.
+> 1. Upload .bin file to ESP8266 HTTP-server and flash STM32F1 series precessors by ESP8266.
+> 2. Upload OTA STM32F1 series on IP-address port in Arduino IDE.
 
+#### Draft Schematic
 <img src="./images/ESP8266-BluePill-OTA.jpg" width="700"> 
