@@ -42,3 +42,14 @@ Tested on STM32F030F4 and STM32F030K6
 <img src="./images/STM32-programmer2.jpg" width="700"> 
 
 [Video on YOUTUBE](https://youtu.be/e2rQj7hw5r0).
+
+## 3. Programming OTA for all STM32F1 series (Coming soon)
+It can upload sketch by OTA to all STM32F1 series with a ESP8266.
+
+Testing on BluePill now.
+
+TODO: 
+> 1. Flash .bin to STM32F103 on ESP8266 HTTP-server.
+> 2. OTA STM32F1 series on IP-address port in Arduino IDE.
+
+<img src="./images/ESP8266-BluePill-OTA.jpg" width="700"> 
