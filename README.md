@@ -67,4 +67,5 @@ TODO:
 
 <img src="./images/Stm32-OTA-flasher03.jpg" width="700"> 
 
+[Video on YOUTUBE](https://youtu.be/17NQFhN0byw).
 
