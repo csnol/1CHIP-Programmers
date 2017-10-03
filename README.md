@@ -47,7 +47,8 @@ Tested on STM32F030F4 and STM32F030K6
 It can upload sketch by OTA to all STM32F1 series with a ESP8266.
 
 Testing on BluePill now.
-The key documents in /Doc/.
+
+Please see [Programmer key info](https://github.com/csnol/1CHIP-Programmers/blob/master/Doc/ST32-AN3155.pdf)
 
 TODO: 
 > 1. (Finished) Upload .bin file to ESP8266 HTTP-server and flash STM32F1 series precessors by ESP8266.
