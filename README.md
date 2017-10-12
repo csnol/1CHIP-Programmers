@@ -43,16 +43,16 @@ Tested on STM32F030F4 and STM32F030K6
 
 [Video on YOUTUBE](https://youtu.be/e2rQj7hw5r0).
 
-## 3. Programming OTA for all STM32F1 series (Coming soon)
-It can upload sketch by OTA to all STM32F1 series with a ESP8266.
+## 3. Programming OTA for all STM32F0/F1 series
+It can upload sketch by OTA to STM32F0/F1 series with a ESP8266.
 
-Testing on BluePill now.
+Tested STM32F03xF/K/C/，F05xF/K/C,F10xx8/B (Blue Pill and Black Pill)
 
 Please see [Programmer key info](https://github.com/csnol/1CHIP-Programmers/blob/master/Doc/ST32-AN3155.pdf)
 
 TODO: 
-> 1. (Finished) Upload .bin file to ESP8266 HTTP-server and flash STM32F1 series precessors by ESP8266.
-> 2. Upload OTA STM32F1 series on IP-address port in Arduino IDE.
+> 1. (Tested and uploaded source codes) Upload .bin file to ESP8266 HTTP-server and flash STM32F0/F1 series precessors by ESP8266.
+> 2. Upload OTA STM32F0/F1 series on IP-address port in Arduino IDE.
 
 #### Draft Schematic
 <img src="./images/ESP8266-BluePill-OTA.jpg" width="700"> 
